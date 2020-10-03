@@ -12,6 +12,6 @@ bunch of template code to copy paste to quickly get there :)
         response.sendRedirect("/hello");
     }
 ```
-you can also use kinda regex 
+you can also use with [RequestPath](https://stackoverflow.com/questions/22094609/multiple-mappings-to-the-same-method-of-a-controller-in-spring)
 
 
